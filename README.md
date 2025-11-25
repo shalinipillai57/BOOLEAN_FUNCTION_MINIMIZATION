@@ -44,11 +44,9 @@ not g6(y6,a);
 endmodule
 
 
-**RTL realization**
+**RTL realization output**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a202c32-cdc7-4000-bfd7-1c17b44ad13a" />
 
-**Output:**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16a054f7-faab-48fe-89db-eb03ca39b40e" />
 
 **RTL**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cd41da3-828f-4405-8fdd-2340ca6ab3bd" />
