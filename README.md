@@ -45,14 +45,14 @@ endmodule
 
 
 **RTL realization output**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a202c32-cdc7-4000-bfd7-1c17b44ad13a" />
+![image](https://github.com/user-attachments/assets/6a202c32-cdc7-4000-bfd7-1c17b44ad13a)
 
 
 **RTL**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cd41da3-828f-4405-8fdd-2340ca6ab3bd" />
+![image](https://github.com/user-attachments/assets/9cd41da3-828f-4405-8fdd-2340ca6ab3bd)
 
 **Timing Diagram**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34b5acb9-6f2c-4649-bad6-448684f3af4f" />
+![image](https://github.com/user-attachments/assets/34b5acb9-6f2c-4649-bad6-448684f3af4f)
 
 **Result:**
 
